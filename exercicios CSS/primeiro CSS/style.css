@@ -1,0 +1,15 @@
+li {
+  color: rgb(51, 202, 51);
+}
+h1 {
+  color: #a708f1;
+  font-size: 50px;
+  position: relative;
+  width: 160px;
+  border: 8px groove yellow;
+}
+body {
+  background-image: url("https://media.istockphoto.com/photos/landscape-sunset-picture-id1336705201?b=1&k=20&m=1336705201&s=170667a&w=0&h=6Z9YINOc5GkcnErxJLln08Qod4LRK0LeCK0rvWc4lc0=");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
