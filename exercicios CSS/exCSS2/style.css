@@ -1,0 +1,17 @@
+h1 {
+  font-family: "Montserrat";
+}
+.date {
+  font-family: "Roboto";
+  color: #008080;
+}
+.post-content {
+  font-family: "Open Sans";
+}
+.post-container .post {
+  background-color: #fffafa;
+  margin: 50px 10% 50px 10%;
+}
+.titulo:hover {
+  color: #008080;
+}

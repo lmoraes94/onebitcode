@@ -1,0 +1,24 @@
+h2 {
+  border: black solid;
+  background-color: #f1c40f;
+}
+h2:hover {
+  color: orange;
+  background-color: red;
+  border: black dashed;
+}
+body {
+  background-color: #2c3e50;
+}
+h1 {
+  color: white;
+}
+h3 {
+  color: #f1c40f;
+}
+ul {
+  color: white;
+}
+#astronomy-class {
+  color: red;
+}
