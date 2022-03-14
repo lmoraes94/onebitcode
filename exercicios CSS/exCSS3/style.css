@@ -1,0 +1,10 @@
+
+
+#carouselExampleIndicators{
+  height:70vh;
+}
+
+#carroselsize{
+  background-size: cover;
+  max-height: 70vh;
+}
